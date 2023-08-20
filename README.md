@@ -14,16 +14,12 @@ The project focuses on developing a predictive model for property prices in Beng
    cd bengaluru-real-estate-prediction
    ```
 
-2. Install dependencies (optional but recommended):
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
 Run the prediction script with input data:
 ```bash
-python predict_price.py --input_data input.csv
+python predict_price.py --iBengaluru_house_data.csv
 ```
 
 ## Data
