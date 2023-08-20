@@ -11,7 +11,7 @@ The project focuses on developing a predictive model for property prices in Beng
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/bengaluru-real-estate-prediction.git
-   cd bengaluru-real-estate-prediction
+   cd Bengaluru-real-estate-prediction
    ```
 
 
@@ -19,7 +19,7 @@ The project focuses on developing a predictive model for property prices in Beng
 
 Run the prediction script with input data:
 ```bash
-python predict_price.py --iBengaluru_house_data.csv
+python predict_price.py --Bengaluru_house_data.csv
 ```
 
 ## Data
@@ -28,7 +28,7 @@ The dataset used for training and testing the model is included in the `data` di
 
 ## Model
 
-The machine learning model is built using a combination of regression algorithms. The code for the model, along with preprocessing steps, can be found in the `model.ipynb` notebook.
+The machine learning model is built using a combination of regression algorithms. The code for the model, along with preprocessing steps, can be found in the 'real_estae_price_prediction.ipynb` notebook.
 
 ## Results
 
