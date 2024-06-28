@@ -10,7 +10,7 @@ The project focuses on developing a predictive model for property prices in Beng
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bengaluru-real-estate-prediction.git
+   git clone https://github.com/SrihariR2004/bengaluru-real-estate-prediction.git
    cd Bengaluru-real-estate-prediction
    ```
 
